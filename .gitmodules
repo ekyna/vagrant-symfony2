@@ -13,3 +13,15 @@
 [submodule "cookbooks/openssl"]
 	path = cookbooks/openssl
 	url = git@github.com:opscode-cookbooks/openssl.git
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git@github.com:opscode-cookbooks/build-essential.git
+[submodule "cookbooks/memcached"]
+	path = cookbooks/memcached
+	url = git@github.com:opscode-cookbooks/memcached.git
+[submodule "cookbooks/dotdeb"]
+	path = cookbooks/dotdeb
+	url = git@github.com:homemade/chef-dotdeb.git
+[submodule "cookbooks/postfix"]
+	path = cookbooks/postfix
+	url = https://github.com/opscode-cookbooks/postfix.git
